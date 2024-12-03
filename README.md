@@ -2,7 +2,7 @@
 - **Works/studies in:** Systems Development Technician (2nd Year);
 - **I’m currently learning:** html & css, Java, JavaScript and PHP;
 - **Languages:** English and Brazilian Portuguese;
-- **Fun fact:** I'm working on my onw project, the "Game Rocket" website.
+
 
 
 ![Saulo Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasCampos13&show_icons=true&theme=aura)
